@@ -90,7 +90,7 @@ Aplicação full stack dockerizada de carteira digital desenvolvida em Next.js e
 * Mocha.js
 * Chai.js
 * Sinon.js
-* Docker
+* Docker file
 * Docker Compose
 
 ## :hammer_and_wrench: Installation and execution/Instalação e execução
@@ -299,4 +299,4 @@ npm run test
 ![Dashboard - mobile](./screenshots/dashboard-mobile.png)
 
 ![Dashboard](./screenshots//dashboard.png)
-# fullstack-bank
+# fullstack-bank 
